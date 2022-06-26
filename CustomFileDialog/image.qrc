@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Close.png</file>
+        <file>image/Computer.png</file>
+        <file>image/ComputerL.png</file>
+        <file>image/Desktop.png</file>
+        <file>image/DesktopL.png</file>
+        <file>image/Document.png</file>
+        <file>image/DocumentL.png</file>
+        <file>image/Down.png</file>
+        <file>image/DownL.png</file>
+        <file>image/Download.png</file>
+        <file>image/DownloadL.png</file>
+        <file>image/DownS.png</file>
+        <file>image/DownSL.png</file>
+        <file>image/File.png</file>
+        <file>image/FileL.png</file>
+        <file>image/Folder.png</file>
+        <file>image/FolderL.png</file>
+        <file>image/Harddisk.png</file>
+        <file>image/HarddiskL.png</file>
+        <file>image/Left.png</file>
+        <file>image/LeftL.png</file>
+        <file>image/LeftS.png</file>
+        <file>image/LeftSL.png</file>
+        <file>image/Logo.png</file>
+        <file>image/Picture.png</file>
+        <file>image/PictureL.png</file>
+        <file>image/Right.png</file>
+        <file>image/RightL.png</file>
+        <file>image/RightS.png</file>
+        <file>image/RightSL.png</file>
+        <file>image/Shadow.png</file>
+        <file>image/Up.png</file>
+        <file>image/UpL.png</file>
+        <file>image/UpS.png</file>
+        <file>image/UpSL.png</file>
+    </qresource>
+</RCC>

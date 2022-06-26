@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/sunyunzhu-001.jpg</file>
+        <file>image/DownS.png</file>
+        <file>image/DownSL.png</file>
+        <file>image/UpS.png</file>
+        <file>image/UpSL.png</file>
+        <file>image/test0.jpg</file>
+    </qresource>
+</RCC>

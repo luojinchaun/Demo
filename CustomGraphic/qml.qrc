@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QuickComponent/MySpinBox.qml</file>
+        <file>QuickComponent/MyTableWidget.qml</file>
+    </qresource>
+</RCC>

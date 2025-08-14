@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+e3a03740f3415ede3f991dbdd4b98073 src/CMakeFiles/ShopMallQt_autogen
+87f54c11f0718fc54a42b751cdf11ba1 src/ShopMallQt_autogen/timestamp
